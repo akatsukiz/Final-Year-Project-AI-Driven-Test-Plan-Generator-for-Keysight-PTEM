@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GuiControlsSettings type="Keysight.OpenTap.Wpf.GuiControlsSettings">
+  <ExpandedStepCategories>
+    <String>ChatboxPlugin</String>
+    <String>Flow Control</String>
+    <String>Basic Steps</String>
+    <String>Basic Connections</String>
+    <String>Text</String>
+    <String>ChatboxPlugin.Model</String>
+    <String>SCPI Tests</String>
+    <String>Chatbox</String>
+  </ExpandedStepCategories>
+  <PropGridCategories>
+    <String>OpenTap.TypeDataLocking</String>
+    <String>OpenTap.TypeDataDebug</String>
+    <String>OpenTap.TypeDataCommon</String>
+    <String>OpenTap.TypeDataVerdict</String>
+    <String>OpenTap.TypeDataSet Verdict</String>
+    <String>OpenTap.TypeDataResults</String>
+    <String>OpenTap.TypeDataTimeout</String>
+    <String>OpenTap.TypeDataPicture</String>
+    <String>OpenTap.TypeDataAdvanced</String>
+    <String>OpenTap.TypeDataVISA</String>
+  </PropGridCategories>
+  <PropGridCategoryStates>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+    <Boolean>true</Boolean>
+  </PropGridCategoryStates>
+  <MainWindowHeight>1046</MainWindowHeight>
+  <MainWindowWidth>1934</MainWindowWidth>
+  <MainWindowTop>0</MainWindowTop>
+  <MainWindowLeft>0</MainWindowLeft>
+  <MainWindowState>Maximized</MainWindowState>
+  <RecentTestPlans />
+  <TestPlanGridColumnDetails></TestPlanGridColumnDetails>
+  <TestPlanColumnState />
+  <TestPlanColumnState2>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Duration</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>0</Priority>
+      <OriginalPriority>0</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Flow</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>0.01</Priority>
+      <OriginalPriority>0.01</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Verdict</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>-99</Priority>
+      <OriginalPriority>-99</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name></Name>
+      <IsVisible>true</IsVisible>
+      <Priority>-101</Priority>
+      <OriginalPriority>-101</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Name</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>-100</Priority>
+      <OriginalPriority>-100</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Type</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>1</Priority>
+      <OriginalPriority>1</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+  </TestPlanColumnState2>
+  <ExternalParametersWindowSize />
+  <MultipleChoiceWindowSize />
+  <PluginManagerWindowSize />
+  <SweepValuesWindowSize />
+  <HubWindowSize />
+  <UserInputSize />
+  <UserInputSizes>
+    <KeyValuePairOfString>
+      <Key>Keysight.OpenTap.Wpf.QuickDialog+ShowMessageRequest</Key>
+      <Value>
+        <Width>360</Width>
+        <Height>180</Height>
+      </Value>
+    </KeyValuePairOfString>
+    <KeyValuePairOfString>
+      <Key>OpenTap.Plugins.BasicSteps.DialogRequest</Key>
+      <Value>
+        <Width>360</Width>
+        <Height>180</Height>
+      </Value>
+    </KeyValuePairOfString>
+    <KeyValuePairOfString>
+      <Key>Keysight.OpenTap.Gui.PlanLoadedWithErrorsQuestion</Key>
+      <Value>
+        <Width>395</Width>
+        <Height>180</Height>
+      </Value>
+    </KeyValuePairOfString>
+  </UserInputSizes>
+  <NewStepDialogWindowSize>
+    <Width>450</Width>
+    <Height>499</Height>
+  </NewStepDialogWindowSize>
+  <SettingDialogWindowSize>
+    <Width>600</Width>
+    <Height>697</Height>
+  </SettingDialogWindowSize>
+  <TestPlanGridScrollToPlaying>false</TestPlanGridScrollToPlaying>
+  <PluginManagerColumnWidth />
+  <PropertyDataGridColumnWidth />
+  <SelectedControlProvider />
+  <GridSplitterRatios />
+  <DialogSize>
+    <KeyValuePairOfString>
+      <Key>Cable Loss</Key>
+      <Value>
+        <Width>400</Width>
+        <Height>300</Height>
+      </Value>
+    </KeyValuePairOfString>
+  </DialogSize>
+  <DisabledLogGroups />
+  <FilterConfigurationData />
+  <MainWindowRepeatStopCount>false</MainWindowRepeatStopCount>
+  <MainWindowRepeatStopPending>false</MainWindowRepeatStopPending>
+  <MainWindowRepeatStopPass>false</MainWindowRepeatStopPass>
+  <MainWindowRepeatStopFail>false</MainWindowRepeatStopFail>
+  <MainWindowRepeatStopError>true</MainWindowRepeatStopError>
+  <MainWindowRepeatStopAbort>false</MainWindowRepeatStopAbort>
+  <MainWindowRepeatMaxCount>0</MainWindowRepeatMaxCount>
+  <FilePathControlLastBrowsedPath>Results</FilePathControlLastBrowsedPath>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.27.1+49587562" />
+  </Package.Dependencies>
+</GuiControlsSettings>

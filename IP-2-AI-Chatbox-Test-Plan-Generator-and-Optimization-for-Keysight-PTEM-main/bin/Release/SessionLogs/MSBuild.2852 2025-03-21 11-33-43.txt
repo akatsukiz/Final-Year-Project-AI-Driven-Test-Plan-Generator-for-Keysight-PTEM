@@ -1,0 +1,31 @@
+2025-03-21 11:33:44.808907 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\FYP\IP-2-AI-Chatbox-Test-Plan-Generator-and-Optimization-for-Keysight-PTEM-main\bin\Release\SessionLogs\MSBuild.2852 2025-03-21 11-33-43.txt'. [7.88 ms]
+2025-03-21 11:33:44.876905 ; Session        ; Debug       ; Running '"C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe" /nologo /nodemode:1 /nodeReuse:true /low:false' in 'C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\FYP\IP-2-AI-Chatbox-Test-Plan-Generator-and-Optimization-for-Keysight-PTEM-main'.
+2025-03-21 11:33:44.992903 ; AssemblyFinder ; Debug       ; Found 5/26 assembly files. [15.8 ms]
+2025-03-21 11:33:45.124902 ; Searcher       ; Debug       ; Ordered 5 assemblies according to references. [115 ms]
+2025-03-21 11:33:45.192904 ; PluginManager  ; Debug       ; Found 3 plugin assemblies containing 175 plugin types. [187 ms]
+2025-03-21 11:33:45.196904 ; PluginManager  ; Debug       ; Found version 9.27.1+49587562  of OpenTap.dll from C:\Users\seowf\.nuget\packages\opentap\9.27.1\build\payload\OpenTap.dll
+2025-03-21 11:33:45.196904 ; PluginManager  ; Debug       ; Found version 9.27.1+49587562  of OpenTap.Package.dll from C:\Users\seowf\.nuget\packages\opentap\9.27.1\build\payload\OpenTap.Package.dll
+2025-03-21 11:33:45.196904 ; PluginManager  ; Debug       ; Found version 9.27.1+49587562  of OpenTap.Plugins.BasicSteps.dll from C:\Users\seowf\.nuget\packages\opentap\9.27.1\build\payload\Packages\OpenTAP\OpenTap.Plugins.BasicSteps.dll
+2025-03-21 11:33:45.196904 ; PluginManager  ; Debug       ; Searched 5 Assemblies. [193 ms]
+2025-03-21 11:33:45.214903 ; AssemblyData   ; Debug       ; Loaded OpenTap. [990 us]
+2025-03-21 11:33:45.214903 ; AssemblyData   ; Debug       ; Loaded OpenTap. [1.04 ms]
+2025-03-21 11:33:45.216905 ; AssemblyData   ; Debug       ; Loaded OpenTap.Package. [366 us]
+2025-03-21 11:33:45.225905 ; AssemblyData   ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [10.1 ms]
+2025-03-21 11:33:45.230902 ; SystemInfo     ; Debug       ; Microsoft Windows 10.0.22631 X64
+2025-03-21 11:33:45.230902 ; SystemInfo     ; Debug       ; .NET Framework 4.8.9290.0
+2025-03-21 11:33:45.231904 ; SystemInfo     ; Debug       ; OpenTAP Engine 9.27.1+49587562 X64
+2025-03-21 11:33:45.462903 ; AssemblyData   ; Debug       ; Loaded mscorlib. [600 ns]
+2025-03-21 11:33:45.777903 ; Installation   ; Debug       ; OpenTAP                  - 9.27.1+49587562
+2025-03-21 11:33:45.777903 ; Installation   ; Debug       ; PathWave License Manager - 7.4.1+efeba870
+2025-03-21 11:33:45.853904 ; Resolver       ; Debug       ; Found match for OpenTap.Repository.Client, Version=4.17.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\seowf\.nuget\packages\opentap\9.27.1\build\payload\Dependencies\OpenTap.Repository.Client.4.17.0.0\OpenTap.Repository.Client.dll
+2025-03-21 11:33:45.917908 ; Settings       ; Debug       ; No settings file exists for AuthenticationSettings. A new instance with default values has been created. [386 us]
+2025-03-21 11:33:45.929901 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.75 ms]
+2025-03-21 11:33:45.978900 ; package        ; Error       ; Could not unpack 'C:\Users\seowf\AppData\Local\OpenTap\PackageCache\Editor X.1.6.1+63cdd815.TapPackage'.
+2025-03-21 11:33:46.261906 ; FilePackageRepository ; Debug       ; Rebuilding cache: .PackageCache.64487D21.17.xml [291 ms]
+2025-03-21 11:33:46.273902 ; Package Query  ; Debug       ; Read 16 packages from [FilePackageRepository: file:///C:/Users/seowf/AppData/Local/OpenTap/PackageCache] [313 ms]
+2025-03-21 11:33:48.029907 ; HttpPackageRepository ; Debug       ; {"type":"TapPackage","directory":"/Packages/","version":"","architecture":"x64","os":"Windows"} -> found 1597 packages. [1.74 s]
+2025-03-21 11:33:49.069905 ; HttpPackageRepository ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"OpenTAP","version":"rc","architecture":"x64","os":"Windows"} -> found 193 packages. [969 ms]
+2025-03-21 11:33:50.119399 ; HttpPackageRepository ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 18 packages. [1.04 s]
+2025-03-21 11:33:51.195329 ; HttpPackageRepository ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Licensing","version":"beta","architecture":"x64","os":"Windows"} -> found 10 packages. [1.07 s]
+2025-03-21 11:33:51.203511 ; image          ; Debug       ; Resolved image: WPF Controls:, OpenTAP:9.27.1+49587562, PathWave License Manager:^7.4.1+efeba870 [3.15 s]
+2025-03-21 11:33:52.785455 ; OpenTAP        ; Information ; Target installation is already up to date.

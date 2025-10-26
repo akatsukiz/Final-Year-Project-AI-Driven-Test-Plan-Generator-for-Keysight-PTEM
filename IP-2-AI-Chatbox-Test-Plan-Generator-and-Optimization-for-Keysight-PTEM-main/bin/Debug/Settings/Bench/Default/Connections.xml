@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConnectionSettings type="OpenTap.ConnectionSettings">
+  <RfConnection type="OpenTap.RfConnection" Source="">
+    <CableLoss />
+    <Name>RF</Name>
+    <Port1 />
+    <Port2 />
+    <Via />
+  </RfConnection>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.27.1+49587562" />
+  </Package.Dependencies>
+</ConnectionSettings>

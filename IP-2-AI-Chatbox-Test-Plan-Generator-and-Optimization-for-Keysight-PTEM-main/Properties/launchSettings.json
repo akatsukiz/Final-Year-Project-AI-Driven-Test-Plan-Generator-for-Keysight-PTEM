@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Debug with editor": {
+      "commandName": "Executable",
+      "executablePath": "./Editor.exe",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "API_KEY": "your_api_key_here"
+      }
+    }
+  }
+}

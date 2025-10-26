@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResultSettings type="OpenTap.ResultSettings">
+  <CsvResultListener type="Keysight.OpenTap.Plugins.Csv.CsvResultListener" Source="">
+    <Separator>Comma</Separator>
+    <FilePath>Results/&lt;ResultName&gt;-&lt;Date&gt;-&lt;Verdict&gt;.csv</FilePath>
+    <IncludeParameters>false</IncludeParameters>
+    <IncludeByteOrderMark>false</IncludeByteOrderMark>
+    <MaximumFileSize>
+      <Value>10000</Value>
+      <IsEnabled>false</IsEnabled>
+    </MaximumFileSize>
+    <WriteResultImmediatly>false</WriteResultImmediatly>
+    <IsEnabled>true</IsEnabled>
+    <Name>CSV</Name>
+  </CsvResultListener>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.27.1+49587562" />
+    <Package Name="CSV" Version="^9.14.1+9907967f" />
+  </Package.Dependencies>
+</ResultSettings>

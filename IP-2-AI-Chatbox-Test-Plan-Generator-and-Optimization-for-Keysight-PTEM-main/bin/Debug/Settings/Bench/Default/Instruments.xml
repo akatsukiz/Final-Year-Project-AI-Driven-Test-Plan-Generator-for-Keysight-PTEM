@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstrumentSettings type="OpenTap.InstrumentSettings">
+  <ScpiInstrument type="OpenTap.ScpiInstrument" Source="">
+    <VisaAddress>TCPIP0::127.0.0.1::5026::SOCKET</VisaAddress>
+    <IoTimeout>2000</IoTimeout>
+    <FinegrainedLock>false</FinegrainedLock>
+    <Lock>false</Lock>
+    <LockRetries>5</LockRetries>
+    <LockHoldoff>0.1</LockHoldoff>
+    <QueryErrorAfterCommand>false</QueryErrorAfterCommand>
+    <SendClearOnConnect>true</SendClearOnConnect>
+    <VerboseLoggingEnabled>true</VerboseLoggingEnabled>
+    <SendIDNOnConnect>true</SendIDNOnConnect>
+    <SendCLSOnConnect>true</SendCLSOnConnect>
+    <Name>SCPI</Name>
+  </ScpiInstrument>
+  <ScpiInstrument type="OpenTap.ScpiInstrument" Source="">
+    <VisaAddress>TCPIP0::127.0.0.1::5025::SOCKET</VisaAddress>
+    <IoTimeout>2000</IoTimeout>
+    <FinegrainedLock>false</FinegrainedLock>
+    <Lock>false</Lock>
+    <LockRetries>5</LockRetries>
+    <LockHoldoff>0.1</LockHoldoff>
+    <QueryErrorAfterCommand>false</QueryErrorAfterCommand>
+    <SendClearOnConnect>true</SendClearOnConnect>
+    <VerboseLoggingEnabled>true</VerboseLoggingEnabled>
+    <SendIDNOnConnect>true</SendIDNOnConnect>
+    <SendCLSOnConnect>true</SendCLSOnConnect>
+    <Name>SCPI1</Name>
+  </ScpiInstrument>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.27.1+49587562" />
+  </Package.Dependencies>
+</InstrumentSettings>

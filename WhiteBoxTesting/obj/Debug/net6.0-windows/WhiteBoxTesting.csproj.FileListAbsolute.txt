@@ -1,0 +1,6 @@
+C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\Isolate Environment\WhiteBoxTesting\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\Isolate Environment\WhiteBoxTesting\obj\Debug\net6.0-windows\WhiteBoxTesting.csproj.AssemblyReference.cache
+C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\Isolate Environment\WhiteBoxTesting\obj\Debug\net6.0-windows\WhiteBoxTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\Isolate Environment\WhiteBoxTesting\obj\Debug\net6.0-windows\WhiteBoxTesting.AssemblyInfoInputs.cache
+C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\Isolate Environment\WhiteBoxTesting\obj\Debug\net6.0-windows\WhiteBoxTesting.AssemblyInfo.cs
+C:\Users\seowf\OneDrive - UOW Malaysia KDU\Desktop\Assignment\Coding\Isolate Environment\WhiteBoxTesting\obj\Debug\net6.0-windows\WhiteBoxTesting.csproj.CoreCompileInputs.cache
